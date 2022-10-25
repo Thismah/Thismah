@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @Thismah;
+- 👀 Meu email de contato é [email](@crislayne.kierski@escola.pr.gov.br);
+- 🌱 Estou interessada em aprender a programar novas linguagens;
+- 💞️ Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch;
